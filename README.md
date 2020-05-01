@@ -1,2 +1,2 @@
 # rsschool-cv
-this a changed file
+https://your-github-account.github.io/rsschool-cv/cv
