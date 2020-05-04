@@ -1,0 +1,30 @@
+body {
+    box-sizing: border-box;
+}
+.container {
+    margin: 0 auto;
+    width: 800px;
+    height: 800px;
+    max-width: 1024px;
+}
+h1, h4 {
+    text-align: center;
+}
+.photo {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+}
+img {
+    width: 150px;
+    height: 150;
+}
+.main {
+    width: 600px;
+    border: 10px soid blue;
+    width: 800px;
+}
+p {
+    text-indent: 1.5em;
+    text-align: justify;
+}
